@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 27af640 (Reinitialize Repository)
 name: Deploy
 
 on:
