@@ -6,37 +6,37 @@ const Content = () => {
       id: 1,
       name: "Pet Food - Chicken Flavor",
       price: "$15.99",
-      imgSrc: "/path-to-image1.jpg",
+      imgSrc: "src/assets/images/petfood2.jpeg",
     },
     {
       id: 2,
       name: "Cat Toy - Interactive",
       price: "$9.99",
-      imgSrc: "/path-to-image2.jpg",
+      imgSrc: "src/assets/images/cat-toy.jpeg",
     },
     {
       id: 3,
       name: "Dog Leash - Nylon",
       price: "$12.49",
-      imgSrc: "/path-to-image3.jpg",
+      imgSrc: "src/assets/images/dog-leash.jpeg",
     },
     {
       id: 4,
       name: "Pet Bed - Cozy",
       price: "$25.00",
-      imgSrc: "/path-to-image4.jpg",
+      imgSrc: "src/assets/images/pet-bed.jpeg",
     },
     {
       id: 5,
       name: "Bird Cage - Large",
       price: "$60.00",
-      imgSrc: "/path-to-image5.jpg",
+      imgSrc: "src/assets/images/Bird-Cage.jpeg",
     },
     {
       id: 6,
       name: "Pet Shampoo - Gentle",
       price: "$7.99",
-      imgSrc: "/path-to-image6.jpg",
+      imgSrc: "src/assets/images/Pet-shampoo.jpeg",
     },
   ];
 

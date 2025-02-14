@@ -8,7 +8,7 @@ const Header = () => {
       {/* Logo */}
       <div className="flex-shrink-0">
         <img 
-          src="../src/assets/images/PatCare1.png"
+          src="./src/assets/images/PetCare1.png"
           alt="Pet Store Logo"
           className="w-10 md:w-12"
         />

@@ -9,7 +9,7 @@ const About = () => {
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 md:mr-8 mb-8 md:mb-0">
             <img
-              src="src/assets/images/PatCare.png"
+              src="src/assets/images/PetCare.png"
               alt="About PetStore"
               className="mx-auto w-64 h-64 object-cover rounded-md"
             />
