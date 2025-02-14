@@ -14,7 +14,7 @@ const Shop = () => {
             {/* Example Product 1 */}
             <div className="bg-white p-4 rounded-lg shadow-lg">
               <img
-                src="src/assets/images/petfood3.jpeg"
+                src="./src/assets/images/petfood3.jpeg"
                 alt="Product 1"
                 className="w-full h-48 object-cover rounded-md mb-4"
               />
@@ -28,7 +28,7 @@ const Shop = () => {
             {/* Example Product 2 */}
             <div className="bg-white p-4 rounded-lg shadow-lg">
               <img
-                src="src/assets/images/cat-toy.jpeg"
+                src="./src/assets/images/cat-toy.jpeg"
                 alt="Product 2"
                 className="w-full h-48 object-cover rounded-md mb-4"
               />
